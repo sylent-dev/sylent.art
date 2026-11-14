@@ -195,7 +195,7 @@ GitHub Pages has no server-side redirects: a redirect is a static page with a ca
 
 ## Contact details and legal information
 
-- Public contact: the e-mail address aunim.hassan@gmail.com, the phone number 06 13 44 94 24, LinkedIn (https://www.linkedin.com/in/aunimhsn/) and GitHub (https://github.com/aunimhsn).
+- Public contact: the e-mail address aunim.hassan@gmail.com, the phone number 06 13 44 94 24, LinkedIn (https://www.linkedin.com/in/aunimhsn/) and GitHub (https://github.com/sylent-dev).
 - Not shown: Instagram, YouTube, Twitch (Twitch may be added later, once the owner streams).
 - Legal notice: name (Aunim Hassan), status (micro-entreprise), SIRET (894 104 132 00010), e-mail, phone, NDA (76311138131, registered with the prefect of the Occitanie region, as its code 76 says) followed by « Cet enregistrement ne vaut pas agrément de l'État », and the host (GitHub, Inc., with its address and phone number, as article 6 of the LCEN asks; the number +1 877 448 4820 comes from third-party records: GitHub publishes none on its own pages, checked on 2026-10-30, see [docs/external-services.md](docs/external-services.md)). **The home address is never shown**, for the owner's safety; see the accepted risk in [docs/external-services.md](docs/external-services.md).
 - The Qualiopi certification is never mentioned: the trainer doesn't have it and works through schools and training organizations.
